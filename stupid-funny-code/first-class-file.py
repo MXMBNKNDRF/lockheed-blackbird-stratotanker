@@ -4,4 +4,4 @@ a = 45
 b = a * 4
 c = a + b
 
-# print ()
+print (c)
